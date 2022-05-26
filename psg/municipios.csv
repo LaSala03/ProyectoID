@@ -1,0 +1,122 @@
+codigo;provincia;nombre;poblacion
+101;1;Chivata;6315
+102;1;Combita;14812
+103;1;Motavita;8195
+104;1;Oicata;2831
+105;1;Sotaquira;7578
+106;1;Siachoque;8967
+107;1;Soraca;5279
+108;1;Tunja;203500
+109;1;Toca;10106
+110;1;Tuta;9734
+111;1;Ventaquemada;15532
+201;2;Chiscas ;4200
+202;2;El Cocuy ;5197
+203;2;El Espino ;4205
+204;2;Guacamayas ;1657
+205;2;Guican ;6801
+206;2;Panqueba;1452
+301;3;Berbeo ;1934
+302;3;Campohermoso ;3813
+303;3;Miraflores ;9779
+304;3;Paez ;2867
+305;3;San Eduardo ;1867
+306;3;Zetaquira;4489
+401;4;Boyaca;4414
+402;4;Cienega ;4694
+403;4;Jenesano ;7659
+404;4;Nuevo Colon ;6602
+405;4;Ramiriqui ;9926
+406;4;Rondon ;2796
+407;4;Tibana ;9136
+408;4;Turmeque ;6050
+409;4;Viracacha;3201
+501;5;Chinavita ;3499
+502;5;Garagoa ;16974
+503;5;Macanal ;4827
+504;5;Pachavita ;2453
+505;5;San Luis de Gaceno ;4996
+506;5;Santa Maria;3918
+507;5;umbita;10322
+601;6;Boavita ;6914
+602;6;Covarachia ;2825
+603;6;La Uvita ;2435
+604;6;San Mateo ;3582
+605;6;Soata;7096
+606;6;Susacon ;3027
+607;6;Tipacoque;3160
+701;7;Buenavista;5777
+702;7;Caldas;3596
+703;7;Coper;3610
+704;7;La Victoria;1674
+705;7;Maripi;7424
+706;7;Muzo;8914
+707;7;Quipama;7776
+801;8;San pablo de Borbur;10478
+802;8;Bricenio;2568
+803;8;Otanche;10671
+804;8;Pauna;10797
+805;8;Saboya;12309
+806;8;San Miguel de Sema;4548
+807;8;Tunungua;1861
+901;9;Almeida ;1699
+902;9;Chivor ;1752
+903;9;Guateque ;9552
+904;9;Guayata ;5013
+905;9;La Capilla ;2499
+906;9;Somondoco ;3555
+907;9;Sutatenza ;4033
+908;9;Tenza;4052
+1001;10;Cucaita;4687
+1002;10;Chiquiza;5433
+1003;10;Gachantiva;2617
+1004;10;Raquira;13682
+1005;10;Sachica;3780
+1006;10;Samaca;20116
+1007;10;Santa Sofia;2658
+1008;10;Puerto Boyaca;55694
+1009;10;Chiquinquira;66203
+1010;10;Sora;3027
+1011;10;Sutamarchan;5890
+1012;10;Tinjaca;3039
+1013;10;Villa de leyva;16984
+1101;11;Arcabuco;5243
+1102;11;Chitaraque;5596
+1103;11;Moniquira;21345
+1104;11;San Jose de Pare;5158
+1105;11;Santana;7671
+1106;11;Togui;4931
+1201;12;Cubara;6730
+1202;12;Jerico;3956
+1203;12;Paz de Rio;4618
+1204;12;Sativanorte;2306
+1205;12;Sativasur;1094
+1206;12;Socha;7092
+1207;12;Socota;7934
+1208;12;Chita;9407
+1301;13;Belen;7255
+1302;13;Cerinza;3714
+1303;13;Duitama;113105
+1304;13;Floresta;4478
+1305;13;Paipa;31021
+1306;13;Santa Rosa de Viterbo;13407
+1307;13;Tutaza;1854
+1401;14;Aquitania;15060
+1402;14;Cuitiva;1892
+1403;14;Firavitoba;5864
+1404;14;Iza;4776
+1405;14;Labranzagrande;2373
+1406;14;Pajarito;1670
+1407;14;Paya;2537
+1408;14;Pesca;7862
+1409;14;Pisba;1323
+1410;14;Sogamoso;112790
+1411;14;Tota;5348
+1501;15;Beteitiva;2024
+1502;15;Busbanza;1192
+1503;15;Corrales;2251
+1504;15;Gameza;4776
+1505;15;Mongua;4657
+1506;15;Mongui;4985
+1507;15;Nobsa;16353
+1508;15;Tasco;6296

@@ -1,0 +1,243 @@
+codigo;nombre;municip
+1011;Aguablanca;101
+1012;Chaine;101
+1021;La Concepcion;102
+1022;San Rafael;102
+1031;Salvial;103
+1032;Sote;103
+1041;Forantiva;104
+1042;Guintiva;104
+1051;Amezquita;105
+1052;Angostura;105
+1061;Juruvita;106
+1062;Firaya;106
+1071;Quebrada vieja ;107
+1072;Runta;107
+1081;El porvenir;108
+1082;Pirgua;108
+1091;Yapompo;109
+1092;Cunuca;109
+1101;Alisal;110
+1102;Hato;110
+1111;Choquira;111
+1112;Libertador;111
+2011;Taucasi;201
+2012;Tapias;201
+2021;Carrizalito;202
+2022;Primavera;202
+2031;La burrera;203
+2032;Pie de penia;203
+2041;Santa cecilia;204
+2042;Las dosmil;204
+2051;San antonio de la cueva;205
+2052;El cerro de malpaso;205
+2061;Carraspozal;206
+2062;Franco;206
+3011;Bombita;301
+3012;Libertad;301
+3021;Santa Maria;302
+3022;San Luis de Gaciano;302
+3031;Cajon;303
+3032;Buenos Aires;303
+3041;Pan de azucar;304
+3042;Yamunta;304
+3051;Cardozo;305
+3052;Libertad;305
+3061;Patanoa;306
+3062;Casa de teja;306
+4011;Naspavas;401
+4012;El marfil;401
+4021;Centenario;402
+4022;Ciudad Bolivar;402
+4031;Cerrorativa;403
+4032;Casa Blanca;403
+4041;Carbonera ;404
+4042;Zapatero;404
+4051;Paramo Rabanan;405
+4052;Casa Blanca;405
+4061;Sucre;406
+4062;Nueva granada;406
+4071;Arrayan;407
+4072;Batan;407
+4081;Chinquira;408
+4082;Pascata;408
+4091;Naranjas ;409
+4092;Virguata;409
+5011;Guayabal ;501
+5012;Montejo;501
+5021;Caracol;502
+5022;Arada Grande;502
+5031;Agua Blanca;503
+5032;La vega;503
+5041;Aguaquinia;504
+5042;Llano grande;504
+5051;Dustano;505
+5052;Ramon romero;505
+5061;Charco Largo;506
+5062;Balcones;506
+5071;Sisa;507
+5072;Tambor grande;507
+6011;San Francisco;601
+6012;Cachavita;601
+6021;Penialisa ;602
+6022;Satova;602
+6031;El carmen;603
+6032;San antonio;603
+6041;Alfaro;604
+6042;Cascajal;604
+6051;Los molinos;605
+6052;La laguna;605
+6061;Bogonta;606
+6062;Cardonal;606
+6071;Ovachia;607
+6072;La carrera;607
+7011;El roble;701
+7012;El jardin;701
+7021;Granja;702
+7022;Pantano;702
+7031;Cantino;703
+7032;Resguardo;703
+7041;Santa Helena;704
+7042;Los cedros;704
+7051;Centro;705
+7052;Palmar;705
+7061;La naval;706
+7062;Santo Domingo;706
+7071;Humbo ;707
+7072;Caviche;707
+8011;el triunfo;801
+8012;El almendro;801
+8021;Campo alegre;802
+8022;El pescado;802
+8031;Manci;803
+8032;Cocos;803
+8041;Capez;804
+8042;Chorrera;804
+8051;Los cerezos;805
+8052;El retorno;805
+8061;Sabaneca;806
+8062;Quintoque;806
+8071;Poveda;807
+8072;Santa Rosa;807
+9011;Bermejal;901
+9012;Cabrera;901
+9021;Camoyo;902
+9022;Pino;902
+9031;El palmar;903
+9032;San cayetano;903
+9041;Barronegro;904
+9042;Caliche abajo;904
+9051;Barroblanco abajo;905
+9052;Barroblanco arriba;905
+9061;Barreras;906
+9062;Canos;906
+9071;Paramo ;907
+9072;Ovejeras;907
+9081;El volcan;908
+9082;Catastral;908
+10011;Carapacho;1001
+10012;Picacho;1001
+10021;Carrisal;1002
+10022;Rondon;1002
+10031;Hatillo;1003
+10032;Socha;1003
+10041;Candelaria occidente;1004
+10042;Candelaria oriente;1004
+10051;Arrayan;1005
+10052;Canales;1005
+10061;Pataguy;1006
+10062;Quite;1006
+10071;Agudelo;1007
+10072;Barbillo;1007
+10081;Brisas del magdalena alto;1008
+10082;Jordan;1008
+10091;Antonia Santos;1009
+10092;Apallares;1009
+10101;Caitoque;1010
+10102;Casablanca;1010
+10111;Resguardo;1011
+10112;Pedregal;1011
+10121;Aposentos altos;1012
+10122;Aposentos bajos;1012
+10131;Lavandera;1013
+10132;Sopota;1013
+11011;cabeceros;1101
+11012;Quemados;1101
+11021;Buena vista ;1102
+11022;Gacio;1102
+11031;Urumal;1103
+11032;San antonio;1103
+11041;Munioces;1104
+11042;Guanomo;1104
+11051;La chorrera;1105
+11052;Cerro carare;1105
+11061;Atillo;1106
+11062;Funcial;1106
+12011;El comercio ;1201
+12012;El jardin;1201
+12021;El castillo;1202
+12022;La cascada;1202
+12031;Venecia;1203
+12032;Brisas del soapaga;1203
+12041;Hato;1204
+12042;Estancia;1204
+12051;El tambor;1205
+12052;La caldera;1205
+12061;La chapa;1206
+12062;Sochaviejo;1206
+12071;Coscativa;1207
+12072;Aposentos;1207
+12081;Granja;1208
+12082;El resguardo;1208
+13011;Donacion;1301
+13012;Montero;1301
+13021;Centro rural;1302
+13022;Centro urbano;1302
+13031;Tocogua;1303
+13032;Higueras;1303
+13041;Nueva floresta;1304
+13042;Centro poblado;1304
+13051;Los rosales;1305
+13052;Saulalito;1305
+13061;Piedras blancas ;1306
+13062;Cuche;1306
+13071;El dorado;1307
+13072;San isidro;1307
+14011;Llano grande;1401
+14012;Hatoviejo;1401
+14021;La Vega;1402
+14022;Macias;1402
+14031;El bosque ;1403
+14032;Calavernas;1403
+14041;Aguacaliente;1404
+14042;Busaga;1404
+14051;El centro;1405
+14052;Asoleda;1405
+14061;Monserrate ;1406
+14062;Uzameba;1406
+14071;Guacal;1407
+14072;Morro;1407
+14081;Chinqua;1408
+14082;Soaca;1408
+14091;Platanales;1409
+14092;San Luis ;1409
+14101;Ramada;1410
+14102;Chiquita;1410
+14111;La puerta;1411
+14112;Rancheria;1411
+15011;Buntia;1501
+15012;Centro;1501
+15021;Cusagota;1502
+15022;Quebradas;1502
+15031;Buenavista;1503
+15032;Buntia;1503
+15041;Cascorbano;1504
+15042;San antonio;1504
+15051;Las canias ;1505
+15052;Use;1505
+15061;Hatoviejo;1506
+15062;Vallado;1506
+15071;Bonza;1507
+15072;Dicho;1507
+15081;Chapa;1508
+15082;Pedregal;1508
